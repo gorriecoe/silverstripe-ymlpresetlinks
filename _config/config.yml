@@ -1,0 +1,6 @@
+---
+Name: ymlpresetlinksconfig
+---
+gorriecoe\Link\Models\Link:
+  extensions:
+    - gorriecoe\YMLPresetLinks\YMLPresetLinksExtension
